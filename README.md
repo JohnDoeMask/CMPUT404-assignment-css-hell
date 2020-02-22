@@ -37,8 +37,10 @@ Modifications to the gutenberg HTML files
 References
 ================
 
-* [Part I background image](https://www.deviantart.com/akinna-stock/art/paper-texture-43428123) created by [Akinna Stock](https://www.deviantart.com/akinna-stock)
-* [Serif Fonts](https://www.w3schools.com/css/css_font.asp)
+* Part I background image https://www.deviantart.com/akinna-stock/art/paper-texture-43428123 created by [Akinna Stock](https://www.deviantart.com/akinna-stock)
+* Serif Fonts https://www.w3schools.com/css/css_font.asp
+* CC-BY-SA 4.0 License plain text https://creativecommons.org/2014/01/07/plaintext-versions-of-creative-commons-4-0-licenses/
+* Wood image https://www.core77.com/posts/54689/An-Introduction-to-Wood-Species-Part-21-Red-Oak
 
 Collaboration
 ==============
