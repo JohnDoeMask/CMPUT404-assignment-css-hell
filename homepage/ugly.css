@@ -36,8 +36,7 @@ h4 {
 
 .sidebar {
   position: absolute;
-  left: 76%;
-  top: 150px;
+  left: 70%;
   color: grey;
 }
 
@@ -52,7 +51,7 @@ h4 {
   position: absolute;
   color: white;
   background: #e4e6e4;
-  width: 860px;
+  width: 660px;
   background-image: url(images/dog.jpg);
   background-size: 100% 100%;
 }
