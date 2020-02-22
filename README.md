@@ -41,6 +41,10 @@ References
 * Serif Fonts https://www.w3schools.com/css/css_font.asp
 * CC-BY-SA 4.0 License plain text https://creativecommons.org/2014/01/07/plaintext-versions-of-creative-commons-4-0-licenses/
 * Wood image https://www.core77.com/posts/54689/An-Introduction-to-Wood-Species-Part-21-Red-Oak
+* CSS list https://css-tricks.com/almanac/properties/l/list-style/
+* Ugly CSS theme background image https://jooinn.com/img/get
+* CSS Gradient Text https://cssgradient.io/blog/css-gradient-text/
+* Dog image https://wallpaperaccess.com/funny-dog
 
 Collaboration
 ==============
